@@ -85,7 +85,7 @@ It is the more valid and informative model, despite its lower accuracy. It avoid
 
 
 
-## Note on Mathematical Relationships Between Features
+## Notes on Mathematical Relationships Between Features
 
 A critical finding of this project is that several features in macroeconomic datasets are not independent.They share mathematical or accounting relationships:
 
