@@ -76,7 +76,7 @@ Linear regression was used to predict Log(GDP) for 2023 under two scenarios.
 |--------|-------|
 | R² Score | **0.1075** |
 | MAE | 1.5758 |
-| MSE | — |
+| MSE | 3.7185 |
 | RMSE | 1.9284 |
 
 > **More honest and economically meaningful.** Only ~10.75% of GDP variance is explained. The included features (GDP Growth, Inflation, Unemployment, Current Account Balance, Government Expense) capture short-term deviations and rates of change — not the absolute size of an economy.
